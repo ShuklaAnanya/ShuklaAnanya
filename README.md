@@ -1,4 +1,4 @@
-# 👋🏼 Hey, I'm Ananya
+## 👋🏼 Hey, I'm Ananya
 I am a Visiting Scholar at Microsoft Research Bangalore, working on Geometric Reasoning and Representation Learning in Vision-Language Models, advised by Dr Mercy Ranjit.
 
 # 📫 Get in Touch
