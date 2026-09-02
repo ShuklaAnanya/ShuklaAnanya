@@ -1,5 +1,5 @@
 ## 👋🏼 Hey, I'm Ananya
-I am a Visiting Scholar at Microsoft Research Bangalore, working on Geometric Reasoning and Representation Learning in Vision-Language Models, advised by Dr Mercy Ranjit.
+I am a Research Fellow at Microsoft Research, working on Self-Evolving Agents and Recursive Self-Improvement, advised by Tanuja Ganu.
 
 ## 📫 Get in Touch
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/-ananya-shukla/)
